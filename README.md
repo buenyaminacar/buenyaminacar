@@ -11,9 +11,4 @@
 ### 🔥 Tech Stack
 **Frontend:** React, Next.js, TypeScript  
 **Backend:** Go, Node.js, Python  
-**DevOps:** Docker, GitHub Actions, k8s  
-
-### 📈 Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenyaminacar" />
-</p>
+**DevOps:** Docker, GitHub Actions, k8s 
