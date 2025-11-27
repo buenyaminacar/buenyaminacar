@@ -1,5 +1,5 @@
-<h1 align="center">buenyaminacar</h1>
-<p align="center">Full-Stack Developer | Java | Python</p>
+<h1 align="left">buenyaminacar</h1>
+<p align="left">Full-Stack Developer | Java | Python</p>
 
 ---
 
