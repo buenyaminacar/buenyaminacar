@@ -6,9 +6,9 @@
 ### Über mich
 - 5+ Jahre Erfahrung in Web-Entwicklung  
 - Fokus: robuste Architekturen & Tooling  
-- Momentan lerne ich Rust 🦀
+- Momentan lerne ich Rust 
 
-### 🔥 Tech Stack
+### Tech Stack
 **Frontend:** React, Next.js, TypeScript  
 **Backend:** Go, Node.js, Python  
 **DevOps:** Docker, GitHub Actions, k8s 
