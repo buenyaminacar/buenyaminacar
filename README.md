@@ -3,7 +3,7 @@
 
 ---
 
-### 🧩 Über mich
+### Über mich
 - 5+ Jahre Erfahrung in Web-Entwicklung  
 - Fokus: robuste Architekturen & Tooling  
 - Momentan lerne ich Rust 🦀
